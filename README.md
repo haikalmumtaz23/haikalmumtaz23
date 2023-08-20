@@ -1,5 +1,5 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Haikal Mumtaz**.\
+Perkenalkan nama saya **Haikal Mumtaz**. 
 
-Saya seorang **Mahasiswa** di Universitas Pembangunan Nasional "Veteran" Yogyakarta.\
+Saya seorang **Mahasiswa** di Universitas Pembangunan Nasional "Veteran" Yogyakarta. 
